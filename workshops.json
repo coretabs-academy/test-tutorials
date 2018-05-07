@@ -8,27 +8,30 @@
       "ar": "في ورشة العمل هذه تقوم باستنساخ واجهة موقع الفيسبوك. هناك حقيقة مثبتة منذ زمن طويل و هي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها",
       "en": "In this workshop you reproduce the Facebook website interface. There is a long-established fact that the readable content of a page will distract the reader from focusing on the outer shape of the text or the form of paragraphs on the page he reads",
    },
-   "techniques_used": "HTML, CSS, JS",
    "level": "0",
    "timetable": "3600",
+   "slug": "facebook-site-workshop",
+   "techniques-used": "HTML, CSS, JS",
+   "last-update": "2018-05-07T15:51:03.624Z",
    "users": [
       "user1",
       "user2"
    ],
-   "courses": [{
+   "modules": [{
       "id": "workshop-1-course-1",
       "title": {
          "ar": "البداية و  متطلبات المشروع",
          "en": "Start and project requirements"
       },
-      "topics": [{
+      "slug": "start-and-project-requirements",
+      "lessons": [{
          "id": "workshop-1-course-1-topic-1",
          "title": {
             "ar": "شرح تحميل الصور المستخدمة في المشروع",
             "en": "Explanation of loading images used in the project"
          },
-         "slug": "explanation_of_loading_images_used_in_the_project",
          "type": "markdown",
+         "slug": "explanation-of-loading-images-used-in-the-project",
          "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/1/"
       }, {
          "id": "workshop-1-course-1-topic-2",
@@ -36,8 +39,8 @@
             "ar": "تجهيز ملف المشروع",
             "en": "Processing the project file"
          },
-         "slug": "processing_the_project_file",
          "type": "video",
+         "slug": "processing-the-project-file",
          "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/2/"
       }]
    }, {
@@ -46,14 +49,15 @@
          "ar": "العمل مع منطقة ال header",
          "en": "Working with the header area"
       },
-      "topics": [{
+      "slug": "working-with-the-header-area",
+      "lessons": [{
          "id": "workshop-1-course-2-topic-1",
          "title": {
             "ar": "مهمة اليوم",
             "en": "Mission today"
          },
-         "slug": "mission_today",
          "type": "task",
+         "slug": "mission-today",
          "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/3/"
       }, {
          "id": "workshop-1-course-2-topic-2",
@@ -61,8 +65,8 @@
             "ar": "إختبار قصير",
             "en": "Short test"
          },
-         "slug": "short_test",
          "type": "quiz",
+         "slug": "short-test",
          "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/4/"
       }]
    }]
@@ -76,27 +80,30 @@
       "ar": "في ورشة العمل هذه تقوم باستنساخ واجهة موقع مليون مبرمج  عربي. هناك حقيقة مثبتة منذ زمن طويل و هي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها",
       "en": "In this workshop you reproduce One million Arab programmers website interface. There is a long-established fact that the readable content of a page will distract the reader from focusing on the outer shape of the text or the form of paragraphs on the page he reads",
    },
-   "techniques_used": "HTML, CSS, JS",
    "level": "0",
    "timetable": "3600",
+   "techniques-used": "HTML, CSS, JS",
+   "last-update": "2018-05-07T15:51:03.624Z",
+   "slug": "arabic-million-programmer-site-workshop",
    "users": [
       "user1",
       "user2"
    ],
-   "courses": [{
+   "modules": [{
       "id": "workshop-2-course-1",
       "title": {
          "ar": "البداية و  متطلبات المشروع",
          "en": "Start and project requirements"
       },
-      "topics": [{
+      "slug": "start-and-project-requirements",
+      "lessons": [{
          "id": "workshop-2-course-1-topic-1",
          "title": {
             "ar": "شرح تحميل الصور المستخدمة في المشروع",
             "en": "Explanation of loading images used in the project"
          },
-         "slug": "explanation_of_loading_images_used_in_the_project",
          "type": "markdown",
+         "slug": "explanation-of-loading-images-used-in-the-project",
          "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/1/"
       }, {
          "id": "workshop-2-course-1-topic-2",
@@ -104,8 +111,8 @@
             "ar": "تجهيز ملف المشروع",
             "en": "Processing the project file"
          },
-         "slug": "processing_the_project_file",
          "type": "video",
+         "slug": "processing-the-project-file",
          "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/2/"
       }]
    }, {
@@ -114,14 +121,15 @@
          "ar": "العمل مع منطقة ال header",
          "en": "Working with the header area"
       },
-      "topics": [{
+      "slug": "working-with-the-header-area",
+      "lessons": [{
          "id": "workshop-2-course-2-topic-1",
          "title": {
             "ar": "مهمة اليوم",
             "en": "Mission today"
          },
-         "slug": "mission_today",
          "type": "task",
+         "slug": "mission-today",
          "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/3/"
       }, {
          "id": "workshop-2-course-2-topic-2",
@@ -129,8 +137,8 @@
             "ar": "إختبار قصير",
             "en": "Short test"
          },
-         "slug": "short_test",
          "type": "quiz",
+         "slug": "short-test",
          "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/4/"
       }]
    }]
