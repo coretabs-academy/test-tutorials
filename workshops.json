@@ -11,8 +11,8 @@
 	"level": "0",
 	"timetable": "3600",
 	"slug": "facebook-site-workshop",
-	"techniques-used": "HTML, CSS, JS",
-	"last-update": "2018-05-07T15:51:03.624Z",
+	"techniques_used": "HTML, CSS, JS",
+	"last_update": "2018-05-07T15:51:03.624Z",
 	"users": [
 		"user1",
 		"user2"
@@ -83,8 +83,8 @@
 	},
 	"level": "0",
 	"timetable": "3600",
-	"techniques-used": "HTML, CSS, JS",
-	"last-update": "2018-05-07T15:51:03.624Z",
+	"techniques_used": "HTML, CSS, JS",
+	"last_update": "2018-05-07T15:51:03.624Z",
 	"slug": "arabic-million-programmer-site-workshop",
 	"users": [
 		"user1",
