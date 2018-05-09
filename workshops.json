@@ -8,9 +8,9 @@
       "ar": "في ورشة العمل هذه تقوم باستنساخ واجهة موقع الفيسبوك. هناك حقيقة مثبتة منذ زمن طويل و هي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها",
       "en": "In this workshop you reproduce the Facebook website interface. There is a long-established fact that the readable content of a page will distract the reader from focusing on the outer shape of the text or the form of paragraphs on the page he reads"
    },
-   "level": "0",
-   "progress": 50,
-   "timetable": "3600",
+   "level": 0,
+   "progress": 0,
+   "timetable": 3600,
    "slug": "facebook-site-workshop",
    "techniques_used": "HTML, CSS, JS",
    "last_update": "2018-05-07T15:51:03.624Z",
@@ -31,8 +31,8 @@
             "ar": "شرح تحميل الصور المستخدمة في المشروع",
             "en": "Explanation of loading images used in the project"
          },
+         "type": 2,
          "is_shown": false,
-         "type": "markdown",
          "slug": "explanation-of-loading-images-used-in-the-project",
          "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/1/"
       }, {
@@ -41,7 +41,7 @@
             "ar": "تجهيز ملف المشروع",
             "en": "Processing the project file"
          },
-         "type": "video",
+         "type": 0,
          "is_shown": false,
          "slug": "processing-the-project-file",
          "url": "https://scrimba.com/c/cPvE3cE",
@@ -60,8 +60,8 @@
             "ar": "مهمة اليوم",
             "en": "Mission today"
          },
-         "type": "task",
-			"is_shown": false,
+         "type": 4,
+         "is_shown": false,
          "slug": "mission-today",
          "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/3/"
       }, {
@@ -70,8 +70,8 @@
             "ar": "إختبار قصير",
             "en": "Short test"
          },
-         "type": "quiz",
-			"is_shown": false,
+         "type": 3,
+         "is_shown": false,
          "slug": "short-test",
          "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/4/"
       }]
@@ -86,9 +86,9 @@
       "ar": "في ورشة العمل هذه تقوم باستنساخ واجهة موقع مليون مبرمج  عربي. هناك حقيقة مثبتة منذ زمن طويل و هي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها",
       "en": "In this workshop you reproduce One million Arab programmers website interface. There is a long-established fact that the readable content of a page will distract the reader from focusing on the outer shape of the text or the form of paragraphs on the page he reads"
    },
-   "level": "0",
+   "level": 2,
    "progress": 0,
-   "timetable": "3600",
+   "timetable": 3600,
    "techniques_used": "HTML, CSS, JS",
    "last_update": "2018-05-07T15:51:03.624Z",
    "slug": "arabic-million-programmer-site-workshop",
@@ -109,8 +109,8 @@
             "ar": "شرح تحميل الصور المستخدمة في المشروع",
             "en": "Explanation of loading images used in the project"
          },
-			"is_shown": false,
-         "type": "markdown",
+         "type": 2,
+         "is_shown": false,
          "slug": "explanation-of-loading-images-used-in-the-project",
          "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/1/"
       }, {
@@ -119,10 +119,10 @@
             "ar": "تجهيز ملف المشروع",
             "en": "Processing the project file"
          },
-         "type": "video",
-			"is_shown": false,
+         "type": 1,
+         "is_shown": false,
          "slug": "processing-the-project-file",
-         "url": "https://scrimba.com/c/cPvE3cE",
+         "url": "https://www.youtube.com/watch?v=0O6_-_UDKa8&t=2068s",
          "notes_url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/2/"
       }]
    }, {
@@ -138,8 +138,8 @@
             "ar": "مهمة اليوم",
             "en": "Mission today"
          },
-         "type": "task",
-			"is_shown": false,
+         "type": 4,
+         "is_shown": false,
          "slug": "mission-today",
          "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/3/"
       }, {
@@ -148,8 +148,8 @@
             "ar": "إختبار قصير",
             "en": "Short test"
          },
-         "type": "quiz",
-			"is_shown": false,
+         "type": 3,
+         "is_shown": false,
          "slug": "short-test",
          "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/4/"
       }]
