@@ -9,7 +9,7 @@
       "en": "In this workshop you reproduce the Facebook website interface. There is a long-established fact that the readable content of a page will distract the reader from focusing on the outer shape of the text or the form of paragraphs on the page he reads"
    },
    "level": "0",
-   "progress": 0,
+   "progress": 50,
    "timetable": "3600",
    "slug": "facebook-site-workshop",
    "techniques_used": "HTML, CSS, JS",
