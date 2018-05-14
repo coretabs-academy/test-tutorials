@@ -3,7 +3,7 @@
    "description": "في ورشة العمل هذه تقوم باستنساخ واجهة موقع الفيسبوك. هناك حقيقة مثبتة منذ زمن طويل و هي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها",
    "level": "0",
    "duration": "3600",
-   "shown_percentage": 50,
+   "shown_percentage": 100,
    "slug": "facebook-site-workshop",
    "used_technologies": "HTML, CSS, JS",
    "last_update_date": "2018-05-07T15:51:03.624Z",
