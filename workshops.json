@@ -1,157 +1,119 @@
 [{
-   "id": "workshop-1",
-   "title": {
-      "ar": "ورشة عمل موقع الفيسبوك",
-      "en": "Facebook site workshop"
-   },
-   "desc": {
-      "ar": "في ورشة العمل هذه تقوم باستنساخ واجهة موقع الفيسبوك. هناك حقيقة مثبتة منذ زمن طويل و هي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها",
-      "en": "In this workshop you reproduce the Facebook website interface. There is a long-established fact that the readable content of a page will distract the reader from focusing on the outer shape of the text or the form of paragraphs on the page he reads"
-   },
-   "level": 0,
-   "progress": 50,
-   "timeline": 3600,
+   "title": "ورشة عمل موقع الفيسبوك",
+   "description": "في ورشة العمل هذه تقوم باستنساخ واجهة موقع الفيسبوك. هناك حقيقة مثبتة منذ زمن طويل و هي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها",
+   "level": "0",
+   "duration": "3600",
+   "shown_percentage": 50,
    "slug": "facebook-site-workshop",
-   "techniques_used": "HTML, CSS, JS",
-   "last_update": "2018-05-07T15:51:03.624Z",
-   "users": [
-      "user1",
-      "user2"
-   ],
+   "used_technologies": "HTML, CSS, JS",
+   "last_update_date": "2018-05-07T15:51:03.624Z",
+   "workshop_result_url": "http://www.facebook.net",
+   "authors": [{
+      "name": "ياسر النجار",
+      "role": "مدرب تطوير صفحات الويب"
+   }, {
+      "name": "ياسر النجار",
+      "role": "مدرب تطوير صفحات الويب"
+   }, {
+      "name": "ياسر النجار",
+      "role": "مدرب تطوير صفحات الويب"
+   }, {
+      "name": "ياسر النجار",
+      "role": "مدرب تطوير صفحات الويب"
+   }],
    "modules": [{
       "id": "workshop-1-course-1",
-      "title": {
-         "ar": "البداية و  متطلبات المشروع",
-         "en": "Start and project requirements"
-      },
+      "title": "البداية و  متطلبات المشروع",
       "slug": "start-and-project-requirements",
       "lessons": [{
-         "id": "workshop-1-course-1-topic-1",
-         "title": {
-            "ar": "شرح تحميل الصور المستخدمة في المشروع",
-            "en": "Explanation of loading images used in the project"
-         },
-         "type": 2,
-         "is_shown": false,
+         "title": "شرح تحميل الصور المستخدمة في المشروع",
+         "type": "2",
+         "is_shown": true,
          "slug": "explanation-of-loading-images-used-in-the-project",
-         "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/1/"
+         "markdown_url": "https://raw.githubusercontent.com/coretabs-academy/fullstack-tutorials/master/1/topic-ar.txt"
       }, {
-         "id": "workshop-1-course-1-topic-2",
-         "title": {
-            "ar": "تجهيز ملف المشروع",
-            "en": "Processing the project file"
-         },
-         "type": 0,
-         "is_shown": false,
+         "title": "تجهيز ملف المشروع",
+         "type": "0",
+         "is_shown": true,
          "slug": "processing-the-project-file",
-         "url": "https://scrimba.com/c/cPvE3cE",
-         "notes_url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/2/"
+         "video_url": "https://scrimba.com/c/cPvE3cE",
+         "markdown_url": "https://raw.githubusercontent.com/coretabs-academy/fullstack-tutorials/master/2/topic-ar.txt"
       }]
    }, {
       "id": "workshop-1-course-2",
-      "title": {
-         "ar": "العمل مع منطقة ال header",
-         "en": "Working with the header area"
-      },
+      "title": "العمل مع منطقة ال header",
       "slug": "working-with-the-header-area",
       "lessons": [{
-         "id": "workshop-1-course-2-topic-1",
-         "title": {
-            "ar": "مهمة اليوم",
-            "en": "Mission today"
-         },
-         "type": 4,
+         "title": "مهمة اليوم",
+         "type": "4",
          "is_shown": false,
          "slug": "mission-today",
-         "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/3/"
+         "markdown_url": "https://raw.githubusercontent.com/coretabs-academy/fullstack-tutorials/master/3/topic-ar.txt"
       }, {
-         "id": "workshop-1-course-2-topic-2",
-         "title": {
-            "ar": "إختبار قصير",
-            "en": "Short test"
-         },
-         "type": 3,
+         "title": "إختبار قصير",
+         "type": "3",
          "is_shown": false,
          "slug": "short-test",
-         "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/4/"
+         "markdown_url": "https://raw.githubusercontent.com/coretabs-academy/fullstack-tutorials/master/4/topic-ar.txt"
       }]
    }]
 }, {
-   "id": "workshop-2",
-   "title": {
-      "ar": "ورشة عمل موقع مليون مبرمج عربي",
-      "en": "Arabic Million Programmer Workshop"
-   },
-   "desc": {
-      "ar": "في ورشة العمل هذه تقوم باستنساخ واجهة موقع مليون مبرمج  عربي. هناك حقيقة مثبتة منذ زمن طويل و هي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها",
-      "en": "In this workshop you reproduce One million Arab programmers website interface. There is a long-established fact that the readable content of a page will distract the reader from focusing on the outer shape of the text or the form of paragraphs on the page he reads"
-   },
-   "level": 2,
-   "progress": 0,
-   "timeline": 5600,
-   "techniques_used": "HTML, CSS, JS",
-   "last_update": "2018-05-07T15:51:03.624Z",
+   "title": "ورشة عمل موقع مليون مبرمج عربي",
+   "description": "في ورشة العمل هذه تقوم باستنساخ واجهة موقع مليون مبرمج  عربي. هناك حقيقة مثبتة منذ زمن طويل و هي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها",
+   "level": "2",
+   "duration": "5600",
+   "shown_percentage": 0,
+   "used_technologies": "HTML, CSS, JS",
+   "last_update_date": "2018-05-07T15:51:03.624Z",
    "slug": "arabic-million-programmer-site-workshop",
-   "users": [
-      "user1",
-      "user2"
-   ],
+   "workshop_result_url": "http://www.facebook.net",
+   "authors": [{
+      "name": "ياسر النجار",
+      "role": "مدرب تطوير صفحات الويب"
+   }, {
+      "name": "ياسر النجار",
+      "role": "مدرب تطوير صفحات الويب"
+   }, {
+      "name": "ياسر النجار",
+      "role": "مدرب تطوير صفحات الويب"
+   }, {
+      "name": "ياسر النجار",
+      "role": "مدرب تطوير صفحات الويب"
+   }],
    "modules": [{
       "id": "workshop-2-course-1",
-      "title": {
-         "ar": "البداية و  متطلبات المشروع",
-         "en": "Start and project requirements"
-      },
+      "title": "البداية و  متطلبات المشروع",
       "slug": "start-and-project-requirements",
       "lessons": [{
-         "id": "workshop-2-course-1-topic-1",
-         "title": {
-            "ar": "شرح تحميل الصور المستخدمة في المشروع",
-            "en": "Explanation of loading images used in the project"
-         },
-         "type": 2,
+         "title": "شرح تحميل الصور المستخدمة في المشروع",
+         "type": "2",
          "is_shown": false,
          "slug": "explanation-of-loading-images-used-in-the-project",
-         "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/1/"
+         "markdown_url": "https://raw.githubusercontent.com/coretabs-academy/fullstack-tutorials/master/1/topic-ar.txt"
       }, {
-         "id": "workshop-2-course-1-topic-2",
-         "title": {
-            "ar": "تجهيز ملف المشروع",
-            "en": "Processing the project file"
-         },
-         "type": 1,
+         "title": "تجهيز ملف المشروع",
+         "type": "1",
          "is_shown": false,
          "slug": "processing-the-project-file",
-         "url": "https://www.youtube.com/watch?v=0O6_-_UDKa8&t=2068s",
-         "notes_url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/2/"
+         "video_url": "https://www.youtube.com/watch?v=0O6_-_UDKa8&t=2068s",
+         "markdown_url": "https://raw.githubusercontent.com/coretabs-academy/fullstack-tutorials/master/2/topic-ar.txt"
       }]
    }, {
       "id": "workshop-2-course-2",
-      "title": {
-         "ar": "العمل مع منطقة ال header",
-         "en": "Working with the header area"
-      },
+      "title": "العمل مع منطقة ال header",
       "slug": "working-with-the-header-area",
       "lessons": [{
-         "id": "workshop-2-course-2-topic-1",
-         "title": {
-            "ar": "مهمة اليوم",
-            "en": "Mission today"
-         },
-         "type": 4,
+         "title": "مهمة اليوم",
+         "type": "4",
          "is_shown": false,
          "slug": "mission-today",
-         "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/3/"
+         "markdown_url": "https://raw.githubusercontent.com/coretabs-academy/fullstack-tutorials/master/3/topic-ar.txt"
       }, {
-         "id": "workshop-2-course-2-topic-2",
-         "title": {
-            "ar": "إختبار قصير",
-            "en": "Short test"
-         },
-         "type": 3,
+         "title": "إختبار قصير",
+         "type": "3",
          "is_shown": false,
          "slug": "short-test",
-         "url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/4/"
+         "markdown_url": "https://raw.githubusercontent.com/coretabs-academy/fullstack-tutorials/master/4/topic-ar.txt"
       }]
    }]
 }]
