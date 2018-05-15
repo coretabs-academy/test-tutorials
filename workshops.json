@@ -37,7 +37,7 @@
          "is_shown": true,
          "slug": "processing-the-project-file",
          "video_url": "https://scrimba.com/c/cPvE3cE",
-         "markdown_url": "https://raw.githubusercontent.com/coretabs-academy/fullstack-tutorials/master/2/topic-ar.txt"
+         "markdown_url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/notes.txt"
       }]
    }, {
       "id": "workshop-1-course-2",
@@ -96,7 +96,7 @@
          "is_shown": false,
          "slug": "processing-the-project-file",
          "video_url": "https://www.youtube.com/watch?v=0O6_-_UDKa8&t=2068s",
-         "markdown_url": "https://raw.githubusercontent.com/coretabs-academy/fullstack-tutorials/master/2/topic-ar.txt"
+         "markdown_url": "https://raw.githubusercontent.com/coretabs-academy/test-tutorials/master/notes.txt"
       }]
    }, {
       "id": "workshop-2-course-2",
@@ -113,7 +113,7 @@
          "type": "3",
          "is_shown": false,
          "slug": "short-test",
-         "markdown_url": "https://raw.githubusercontent.com/coretabs-academy/fullstack-tutorials/master/4/topic-ar.txt"
+         "markdown_url": "https://raw.githubusercontent.com/coretabs-academy/fullstack-tutorials/master/2/quiz.json"
       }]
    }]
 }]
