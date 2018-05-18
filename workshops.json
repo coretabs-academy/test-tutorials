@@ -54,7 +54,7 @@
          "type": "3",
          "is_shown": false,
          "slug": "short-test",
-         "markdown_url": "https://github.com/coretabs-academy/fullstack-tutorials/blob/master/2/quiz.json"
+         "markdown_url": "https://raw.githubusercontent.com/coretabs-academy/fullstack-tutorials/master/2/quiz.json"
       }]
    }]
 }, {
